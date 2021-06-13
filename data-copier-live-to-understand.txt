@@ -8,5 +8,9 @@ This file will help me to know the execution of steps for further refence
 7. read.py write.py util.py
 8. export DB_DETAILS = 'retail_db' --> python --> imposrt os --> os.enviorn.get('DB_DETAILS')
 9. app.py ----> sys # exposes all the info between runtime and app
-
+10. Create branch in GIT -- Use command line to feed the data in git hub and I use the github desktop option
+11. table_list
+12. Now next work on util.py ## we add new function get_tables
+13. app.py ## we call the util get_tables function in main function 
+14. 
 
