@@ -1,0 +1,12 @@
+This file will help me to know the execution of steps for further refence
+1. create requirements.txt
+2. pip install packages that we want to add
+3. pip freeze --- to find the name and version of the pkg
+4. paste it in requirements
+5. pip install mysql-connector ## for mysql database connection  
+6. pip install psycopg2-binary ## for postgres connection ,binary will take care of other dependencies and for OS level library.
+7. read.py write.py util.py
+8. export DB_DETAILS = 'retail_db' --> python --> imposrt os --> os.enviorn.get('DB_DETAILS')
+9. app.py ----> sys # exposes all the info between runtime and app
+
+
