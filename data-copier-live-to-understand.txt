@@ -12,5 +12,12 @@ This file will help me to know the execution of steps for further refence
 11. table_list
 12. Now next work on util.py ## we add new function get_tables
 13. app.py ## we call the util get_tables function in main function 
-14. 
-
+14. then we commit using pychramitself
+15. we can also view our past commit and then we can revert back our code using the option 
+16. click git--> Show History
+17. add mysql related info in util.py
+18. add changes to read.py
+19. test the code in app.py
+20. after test for read queery now we are goin for write access
+21. Then we add postgres connection in util.py
+22. Then start writing code in write.py
